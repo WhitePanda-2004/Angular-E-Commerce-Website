@@ -1,0 +1,35 @@
+{
+    "posts": [
+        { 
+            "id": 1,
+            "name": "HeadPhone",
+            "catId": 2,
+            "description": "Description Here",
+            "price": 40,
+            "isAvailable": true,
+            "rating": 4,
+            "vendorname": "Seller 1",
+            "warranty": 2
+        },
+
+        { 
+            "id": 2,
+            "name": "HeadPhone",
+            "catId": 3,
+            "description": "Description Here",
+            "price": 50,
+            "isAvailable": true,
+            "rating": 5,
+            "vendorname": "Seller 1",
+            "warranty": 1
+        }
+    ],
+    "comments": [
+        { 
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": { "name": "typicode" }
+  }
